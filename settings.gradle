@@ -1,0 +1,5 @@
+include ':factory'
+include ':observer'
+include ':builder'
+include ':strategy'
+rootProject.name = "DesignPatterns"
